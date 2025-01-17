@@ -3,3 +3,4 @@ data/raw_data/
 venv
 *.csv
 data/images/
+data/preprocessed_data
